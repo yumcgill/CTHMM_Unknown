@@ -3,12 +3,12 @@ This repository contains the R code supporting the paper by Yu Luo and and David
 <em><strong>Statistics and Computing</strong></em>.
 
 Each folder contains the code for individual simulation for: 
--	UnknownStates_Norm: RJMCMC for continuous-time hidden Markov models with an unknown number of states (Normal case, sigma=1, Example in Section 5.1 in the main paper)
--	UnknownStates_Pois: RJMCMC for continuous-time hidden Markov models with an unknown number of states (Poisson case, Example in Section 5.1 in the main paper)
--	UnknownStatesClusters_Norm: RJMCMC for continuous-time hidden Markov models with unknown numbers of states and clusters (Normal case, sigma=1, Example in Section 5.4 in the main paper)
--	UnknownStatesClusters_Pois: RJMCMC for continuous-time hidden Markov models with unknown numbers of states and clusters (Poisson case, Example in Section 5.4 in the main paper)
+-	<strong>UnknownStates_Norm</strong>: RJMCMC for continuous-time hidden Markov models with an unknown number of states (Normal case, sigma=1, Example in Section 5.1 in the main paper)
+-	<strong>UnknownStates_Pois</strong>: RJMCMC for continuous-time hidden Markov models with an unknown number of states (Poisson case, Example in Section 5.1 in the main paper)
+-	<strong>UnknownStatesClusters_Norm</strong>: RJMCMC for continuous-time hidden Markov models with unknown numbers of states and clusters (Normal case, sigma=1, Example in Section 5.4 in the main paper)
+-	<strong>UnknownStatesClusters_Pois</strong>: RJMCMC for continuous-time hidden Markov models with unknown numbers of states and clusters (Poisson case, Example in Section 5.4 in the main paper)
 
 Please run each folder in the order: data, func, RJMCMC:
--	Data: code to generate the simulated data
--	Func: some preliminary functions, initial values and hyper parameters
--	RJMCMC: code to run the proposed RJMCMC  
+-	<strong>Data</strong>: code to generate the simulated data
+-	<strong>Func</strong>: some preliminary functions, initial values and hyper parameters
+-	<strong>RJMCMC</strong>: code to run the proposed RJMCMC  
