@@ -1,4 +1,4 @@
-# CTHMM_Unknown
+# The reversible-jump MCMC for continuous-time hidden Markov models with an unknown number of states and an unknown number of clusters 
 This repository contains the R code supporting the paper by Yu Luo and and David A. Stephens (2021) ["Bayesian inference for continuous-time hidden Markov models with an unknown number of states"](https://link.springer.com/article/10.1007/s11222-021-10032-8), published in 
 <em><strong>Statistics and Computing</strong></em>.
 
